@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.9.1">
+  <compound refid="class_class1" kind="class"><name>Class1</name>
+    <member refid="class_class1_1a634a95dbd72abcd30bc42517ced333c1" kind="function"><name>Class1</name></member>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="_skeleton_movie_creator_worker_8cs" kind="file"><name>SkeletonMovieCreatorWorker.cs</name>
+  </compound>
+</doxygenindex>

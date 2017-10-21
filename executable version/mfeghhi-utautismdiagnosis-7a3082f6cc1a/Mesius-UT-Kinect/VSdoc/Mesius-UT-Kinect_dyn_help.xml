@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="Mesius-UT-Kinect" Title="Mesius-UT-Kinect Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.App" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000001.html" LinkGroup="Mesius-UT-Kinect">App Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.CaseMaker" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000002.html" LinkGroup="Mesius-UT-Kinect">CaseMaker Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.CaseMaker.CaseMaker" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000003.html" LinkGroup="Mesius-UT-Kinect">CaseMaker Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition.JointPosition" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000024_overloads--.html" LinkGroup="Mesius-UT-Kinect">JointPosition </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition.JointPosition" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000023_overloads--.html" LinkGroup="Mesius-UT-Kinect">JointPosition </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001F.html" LinkGroup="Mesius-UT-Kinect">JointPosition Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MainWindow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000004.html" LinkGroup="Mesius-UT-Kinect">MainWindow Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MainWindow.MainWindow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000005.html" LinkGroup="Mesius-UT-Kinect">MainWindow Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Mesius-UT-Kinect Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000038.html" LinkGroup="Mesius-UT-Kinect">Mesius-UT-Kinect Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MyColorFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000008.html" LinkGroup="Mesius-UT-Kinect">MyColorFrame Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MyColorFrame.MyColorFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000009.html" LinkGroup="Mesius-UT-Kinect">MyColorFrame Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.MySkeleton" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000017_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeleton </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.MySkeleton" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000019_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeleton </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.MySkeleton" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000018_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeleton </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000016.html" LinkGroup="Mesius-UT-Kinect">MySkeleton Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.MySkeletonFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000010_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeletonFrame </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.MySkeletonFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000F_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeletonFrame </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.MySkeletonFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000E_overloads--.html" LinkGroup="Mesius-UT-Kinect">MySkeletonFrame </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000D.html" LinkGroup="Mesius-UT-Kinect">MySkeletonFrame Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.TextTag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000032_overloads--.html" LinkGroup="Mesius-UT-Kinect">TextTag </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.TextTag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000033_overloads--.html" LinkGroup="Mesius-UT-Kinect">TextTag </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000028.html" LinkGroup="Mesius-UT-Kinect">TextTag Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTagControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000035.html" LinkGroup="Mesius-UT-Kinect">TextTagControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTagControl.TextTagControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000036.html" LinkGroup="Mesius-UT-Kinect">TextTagControl Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000000.html" LinkGroup="Mesius-UT-Kinect">UTKinectSkeletonMovementDetector Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.addJoint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001D.html" LinkGroup="Mesius-UT-Kinect">addJoint Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.color" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002F.html" LinkGroup="Mesius-UT-Kinect">color Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTagControl.data" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000037.html" LinkGroup="Mesius-UT-Kinect">data Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.duration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002D.html" LinkGroup="Mesius-UT-Kinect">duration Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.end" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002C.html" LinkGroup="Mesius-UT-Kinect">end Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MyColorFrame.getImageMemoryStream" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000A.html" LinkGroup="Mesius-UT-Kinect">getImageMemoryStream Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.getJoint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001C.html" LinkGroup="Mesius-UT-Kinect">getJoint Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.getJoints" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001E.html" LinkGroup="Mesius-UT-Kinect">getJoints Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.getSkeletons" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000014.html" LinkGroup="Mesius-UT-Kinect">getSkeletons Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MyColorFrame.getTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000B.html" LinkGroup="Mesius-UT-Kinect">getTime Method {UTKinectSkeletonMovementDetector.MyColorFrame}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.getTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000012.html" LinkGroup="Mesius-UT-Kinect">getTime Method {UTKinectSkeletonMovementDetector.MySkeletonFrame}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.getTrackingId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001A.html" LinkGroup="Mesius-UT-Kinect">getTrackingId Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000029.html" LinkGroup="Mesius-UT-Kinect">id Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.interpolate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000015.html" LinkGroup="Mesius-UT-Kinect">interpolate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.path" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000031.html" LinkGroup="Mesius-UT-Kinect">path Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.progressDialog" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000025.html" LinkGroup="Mesius-UT-Kinect">progressDialog Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.progressDialog.progressDialog" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000026.html" LinkGroup="Mesius-UT-Kinect">progressDialog Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.saveOrUpdateOnDisk" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000034.html" LinkGroup="Mesius-UT-Kinect">saveOrUpdateOnDisk Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.saveToFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000011.html" LinkGroup="Mesius-UT-Kinect">saveToFile Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.start" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002B.html" LinkGroup="Mesius-UT-Kinect">start Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MainWindow.startWritingFramesOnDisk" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000007.html" LinkGroup="Mesius-UT-Kinect">startWritingFramesOnDisk Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002A.html" LinkGroup="Mesius-UT-Kinect">text Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeletonFrame.toImageMemoryStream" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000013.html" LinkGroup="Mesius-UT-Kinect">toImageMemoryStream Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MySkeleton.toString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000001B.html" LinkGroup="Mesius-UT-Kinect">toString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.totalDuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000002E.html" LinkGroup="Mesius-UT-Kinect">totalDuration Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MainWindow.update_main_window_state" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000006.html" LinkGroup="Mesius-UT-Kinect">update_main_window_state Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.TextTag.visible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000030.html" LinkGroup="Mesius-UT-Kinect">visible Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.MyColorFrame.writeOnDisk" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_000000000000000C.html" LinkGroup="Mesius-UT-Kinect">writeOnDisk Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition.x" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000020.html" LinkGroup="Mesius-UT-Kinect">x Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition.y" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000021.html" LinkGroup="Mesius-UT-Kinect">y Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UTKinectSkeletonMovementDetector.JointPosition.z" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Mesius-UT-Kinect.chm::/topic_0000000000000022.html" LinkGroup="Mesius-UT-Kinect">z Field</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

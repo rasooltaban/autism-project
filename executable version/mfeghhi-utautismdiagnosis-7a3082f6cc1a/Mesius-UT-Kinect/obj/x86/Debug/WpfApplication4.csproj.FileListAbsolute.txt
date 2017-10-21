@@ -1,0 +1,16 @@
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\App.g.cs
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.g.resources
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\bin\Debug\SimulatorLib.dll
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.exe
+C:\Users\Ghazal\Documents\Visual Studio 2010\Projects\WpfApplication4\WpfApplication4\obj\x86\Debug\WpfApplication4.pdb

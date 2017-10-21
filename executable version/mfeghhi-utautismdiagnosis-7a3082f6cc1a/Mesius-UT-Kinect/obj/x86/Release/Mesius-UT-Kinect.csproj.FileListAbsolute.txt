@@ -1,0 +1,287 @@
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.exe.config
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.FFMPEG.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.FFMPEG.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\documentation.XML
+G:\vaio-backup\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+G:\vaio-backup\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+G:\vaio-backup\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.dll
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.xml
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\bin\Release\AForge.xml
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\meysam\Desktop\Meysam-Edition\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\AForge.dll
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\AForge.Video.xml
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\AForge.Video.FFMPEG.xml
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\AForge.xml
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\cygwin64\home\Mohsen\repos\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\AForge.dll
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\AForge.Video.xml
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\bin\Release\AForge.xml
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\meysam\Desktop\utautismdiagnosis2\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+F:\mac backup\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+C:\Users\Meysam\Desktop\utautismdiagnosis\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+C:\Users\masoud\Downloads\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+C:\Users\Rasool\Desktop\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\documentation.XML
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.dll
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.xml
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+D:\university\semester9\Project-autism\kinect program\final version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\documentation.XML
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.dll
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.xml
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+D:\university\semester9\Project-autism\kinect program\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.config
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.pdb
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe.manifest
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.application
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.exe
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\WpfApplication4.pdb
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\documentation.XML
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\SimulatorLib.dll
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csprojResolveAssemblyReference.cache
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.baml
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\CaseMaker.g.cs
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\progressDialog.g.cs
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\TextTagControl.g.cs
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\App.g.cs
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\UTKinectSkeletonMovementDetector.Properties.Resources.resources
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\Mesius-UT-Kinect.csproj.GenerateResource.Cache
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.exe.manifest
+C:\Users\RoboLab\Documents\autism project\executable version\mfeghhi-utautismdiagnosis-7a3082f6cc1a\Mesius-UT-Kinect\obj\x86\Release\WpfApplication4.application

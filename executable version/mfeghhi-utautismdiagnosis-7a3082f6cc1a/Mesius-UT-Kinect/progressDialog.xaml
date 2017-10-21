@@ -1,0 +1,10 @@
+﻿<Window x:Class="UTKinectSkeletonMovementDetector.progressDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Please Wait ..." Height="124" Width="398" 
+        WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <Label Content="XXX" Height="28" HorizontalAlignment="Left" Margin="7,6,0,0" Name="label" VerticalAlignment="Top" Width="333" />
+        <ProgressBar Height="23" HorizontalAlignment="Left" Margin="26,50,0,0" Name="filmprogress" VerticalAlignment="Top" Width="328" IsIndeterminate="True"/>
+    </Grid>
+</Window>

@@ -1,0 +1,128 @@
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter}{\section{U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter Class Reference}
+\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter}\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter}}
+}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static System.\-Drawing.\-Image \hyperlink{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a7fdb142bafc43845084ae2208ad98ed4}{paintonblank} (Skeleton\mbox{[}$\,$\mbox{]} skeletons)
+\begin{DoxyCompactList}\small\item\em draw on a blank black frame \end{DoxyCompactList}\item 
+static System.\-Drawing.\-Image \hyperlink{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a75e75c7dc95899e548e0b294cd164c3b}{paint\-Skeleton\-And\-Hide\-Head} (Image img, Skeleton\mbox{[}$\,$\mbox{]} skeletons)
+\begin{DoxyCompactList}\small\item\em draw on an img \end{DoxyCompactList}\item 
+static System.\-Drawing.\-Image \hyperlink{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ad4f37b20c059cd693d3e557aeee44377}{hide\-Head} (Image img, Skeleton\mbox{[}$\,$\mbox{]} skeletons)
+\begin{DoxyCompactList}\small\item\em draw on a background and also hide head \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static Point \hyperlink{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ab0533b91ac7ce48bdea5a46aa20b16a8}{get\-Head\-Cover\-Size} (double headz)
+\begin{DoxyCompactList}\small\item\em returns the the size of head cover square \end{DoxyCompactList}\item 
+static System.\-Drawing.\-Image \hyperlink{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a85f7fa7db7126626c9ab4b4ccd01ae1a}{paint} (Image bg, Skeleton\mbox{[}$\,$\mbox{]} skeletons, Point initsize, double proportion, Boolean paintskeleton, Boolean hidehead)
+\begin{DoxyCompactList}\small\item\em simply converts a 3d point to display on 640 $\ast$ 480 \-: 2d frame \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ab0533b91ac7ce48bdea5a46aa20b16a8}{\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}!get\-Head\-Cover\-Size@{get\-Head\-Cover\-Size}}
+\index{get\-Head\-Cover\-Size@{get\-Head\-Cover\-Size}!UTKinectSkeletonMovementDetector::SkeletonPainter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}}
+\subsubsection[{get\-Head\-Cover\-Size}]{\setlength{\rightskip}{0pt plus 5cm}static Point U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter.\-get\-Head\-Cover\-Size (
+\begin{DoxyParamCaption}
+\item[{double}]{headz}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}}\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ab0533b91ac7ce48bdea5a46aa20b16a8}
+
+
+returns the the size of head cover square 
+
+
+\begin{DoxyParams}{Parameters}
+{\em bg} & frame to draw skeleton on\\
+\hline
+\end{DoxyParams}
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ad4f37b20c059cd693d3e557aeee44377}{\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}!hide\-Head@{hide\-Head}}
+\index{hide\-Head@{hide\-Head}!UTKinectSkeletonMovementDetector::SkeletonPainter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}}
+\subsubsection[{hide\-Head}]{\setlength{\rightskip}{0pt plus 5cm}static System.\-Drawing.\-Image U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter.\-hide\-Head (
+\begin{DoxyParamCaption}
+\item[{Image}]{img, }
+\item[{Skeleton\mbox{[}$\,$\mbox{]}}]{skeletons}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}}\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_ad4f37b20c059cd693d3e557aeee44377}
+
+
+draw on a background and also hide head 
+
+
+\begin{DoxyParams}{Parameters}
+{\em img} & background to draw skeleton on\\
+\hline
+{\em skeletons} & skeletons to be drawn on the background\\
+\hline
+\end{DoxyParams}
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a85f7fa7db7126626c9ab4b4ccd01ae1a}{\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}!paint@{paint}}
+\index{paint@{paint}!UTKinectSkeletonMovementDetector::SkeletonPainter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}}
+\subsubsection[{paint}]{\setlength{\rightskip}{0pt plus 5cm}static System.\-Drawing.\-Image U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter.\-paint (
+\begin{DoxyParamCaption}
+\item[{Image}]{bg, }
+\item[{Skeleton\mbox{[}$\,$\mbox{]}}]{skeletons, }
+\item[{Point}]{initsize, }
+\item[{double}]{proportion, }
+\item[{Boolean}]{paintskeleton, }
+\item[{Boolean}]{hidehead}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}}\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a85f7fa7db7126626c9ab4b4ccd01ae1a}
+
+
+simply converts a 3d point to display on 640 $\ast$ 480 \-: 2d frame 
+
+
+\begin{DoxyParams}{Parameters}
+{\em bg} & frame to draw skeleton on\\
+\hline
+{\em skeletons} & all skeletons of a single frmae\\
+\hline
+{\em initsize} & skeleton frame initial size\\
+\hline
+{\em proportion} & ratio of skeleton fram scale\\
+\hline
+{\em paintskeleton} & determines whether or not all skeleton bones should be painted\\
+\hline
+{\em hidedead} & whether or not the head should be hided with a black square or not\\
+\hline
+\end{DoxyParams}
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a7fdb142bafc43845084ae2208ad98ed4}{\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}!paintonblank@{paintonblank}}
+\index{paintonblank@{paintonblank}!UTKinectSkeletonMovementDetector::SkeletonPainter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}}
+\subsubsection[{paintonblank}]{\setlength{\rightskip}{0pt plus 5cm}static System.\-Drawing.\-Image U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter.\-paintonblank (
+\begin{DoxyParamCaption}
+\item[{Skeleton\mbox{[}$\,$\mbox{]}}]{skeletons}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}}\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a7fdb142bafc43845084ae2208ad98ed4}
+
+
+draw on a blank black frame 
+
+
+\begin{DoxyParams}{Parameters}
+{\em skeletons} & skeletons to draw\\
+\hline
+\end{DoxyParams}
+\hypertarget{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a75e75c7dc95899e548e0b294cd164c3b}{\index{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}!paint\-Skeleton\-And\-Hide\-Head@{paint\-Skeleton\-And\-Hide\-Head}}
+\index{paint\-Skeleton\-And\-Hide\-Head@{paint\-Skeleton\-And\-Hide\-Head}!UTKinectSkeletonMovementDetector::SkeletonPainter@{U\-T\-Kinect\-Skeleton\-Movement\-Detector\-::\-Skeleton\-Painter}}
+\subsubsection[{paint\-Skeleton\-And\-Hide\-Head}]{\setlength{\rightskip}{0pt plus 5cm}static System.\-Drawing.\-Image U\-T\-Kinect\-Skeleton\-Movement\-Detector.\-Skeleton\-Painter.\-paint\-Skeleton\-And\-Hide\-Head (
+\begin{DoxyParamCaption}
+\item[{Image}]{img, }
+\item[{Skeleton\mbox{[}$\,$\mbox{]}}]{skeletons}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}}\label{classUTKinectSkeletonMovementDetector_1_1SkeletonPainter_a75e75c7dc95899e548e0b294cd164c3b}
+
+
+draw on an img 
+
+
+\begin{DoxyParams}{Parameters}
+{\em img} & background of the drawing\\
+\hline
+{\em skeletons} & skeletons to be drawn on the background\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{SkeletonPainter_8cs}{Skeleton\-Painter.\-cs}\end{DoxyCompactItemize}

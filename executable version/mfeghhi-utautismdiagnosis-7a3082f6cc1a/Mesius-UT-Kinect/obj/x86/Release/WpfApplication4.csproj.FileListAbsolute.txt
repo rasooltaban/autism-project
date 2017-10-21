@@ -1,0 +1,178 @@
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Program files\KInect\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Program files\KInect\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\kinect\C#\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\kinect\C#\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\User\Downloads\Compressed\WpfApplication4\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\Kinect\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Kinect\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+I:\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+I:\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\computer\term8\Project\AutismCenter\data\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Kinect\WpfVersion2\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+D:\computer\term8\Project\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+H:\Kinect\Running Kinect\WpfVersion3\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+H:\Kinect\Running Kinect\WpfVersion3\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\bin\Release\SimulatorLib.dll
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.csprojResolveAssemblyReference.cache
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.baml
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\App.g.cs
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+G:\Work\Prof. Moradi\kinect\WpfApplication4\WpfApplication4\obj\x86\Release\WpfApplication4.csproj.GenerateResource.Cache
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\bin\Release\SimulatorLib.dll
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.csprojResolveAssemblyReference.cache
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\MainWindow.baml
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\App.g.cs
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+G:\Work\Prof. Moradi\kinect\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.csproj.GenerateResource.Cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.exe
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.pdb
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\Coding4Fun.Kinect.WinForm.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\Coding4Fun.Kinect.Wpf.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\Kinect.Toolbox.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\SimulatorLib.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.csprojResolveAssemblyReference.cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\MainWindow.baml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\MainWindow.g.cs
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\App.g.cs
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4_MarkupCompile.cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.g.resources
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.Properties.Resources.resources
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\obj\x86\Release\WpfApplication4.csproj.GenerateResource.Cache
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.Video.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.Video.FFMPEG.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.dll
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.Video.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.Video.FFMPEG.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\AForge.xml
+G:\Work\Prof. Moradi\kinect\Microsoft Kinect SDK Projects\Meysam-Edition\WpfApplication4\bin\Release\WpfApplication4.exe.config

@@ -1,0 +1,161 @@
+﻿<Window x:Class="UTKinectSkeletonMovementDetector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UT-Autism Detection Using Microsoft Kinect" 
+        Loaded="WindowLoaded" 
+        Closing="WindowClosing" 
+        mc:Ignorable="d" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        d:DesignHeight="750" 
+        d:DesignWidth="1350" 
+        SizeToContent="WidthAndHeight" 
+        WindowStyle="SingleBorderWindow" 
+        ResizeMode="CanResizeWithGrip"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Background="White" Name="mainGrid" MinHeight="400" MinWidth="800">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="17" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="8*" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="7" Height="30" Name="main_menu">
+            <MenuItem Header="_File" Height="30" Width="50" >
+                <MenuItem Header="_New Project" Name="newProjectItem" Click="newProjectItem_Click"/>
+                <MenuItem Header="_Open Project" Name="openProjectItem" Click="openProjectItem_Click"/>
+                <Separator />
+                <MenuItem Header="_Exit"  Name="exitItem" Click="ExitItem_Click" />
+            </MenuItem>
+        </Menu>
+        <Image Grid.Column="1" Grid.Row="2" Source="/WpfApplication4;component/MIRlogo.png" RenderTransformOrigin="0.282,0.872" HorizontalAlignment="Left" Width="207"/>
+        <Image Grid.Column="5" Grid.Row="2" Source="/WpfApplication4;component/UTlogo.png"/>
+
+        <Label Name="overlayBackground" Background="Gray" Grid.Row="2" Grid.Column="3" Grid.RowSpan="3"/>
+        <Image Name="ColorImage2" Grid.Column="3" Grid.Row="2" Grid.RowSpan="3" SizeChanged="ColorImage2_SizeChanged"/>
+        <Image Name="Skeleton2" Grid.Column="3" Grid.Row="2" Grid.RowSpan="3" VerticalAlignment="Bottom" Height="271" Width="361"/>
+        <MediaElement Name="overlayplayer" Grid.Row="2" Grid.Column="3" Grid.RowSpan="3" LoadedBehavior="Manual" MediaOpened="overlayplayer_MediaOpened" ScrubbingEnabled="True"/>
+        <TextBlock Name="OverlayTextLabel" Text=">  RGB and Skeleton Overlay"  FontSize="16" Foreground="White" Grid.Row="2" Grid.Column="3">
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="10" Color="#00000000" />
+            </TextBlock.Effect>
+        </TextBlock>
+
+
+        <Label Name="colorImageLabel" Background="Gray" Grid.Row="4" Grid.Column="1"/>
+        <Image Name="ColorImage" Grid.Row="4" Grid.Column="1"/>
+        <MediaElement Name="rgbplayer" Grid.Row="4" Grid.Column="1" LoadedBehavior="Manual" ScrubbingEnabled="True"/>
+        <TextBlock Name="colorTextLabel" Foreground="White" Text=">  RGB Data"  FontSize="16" Grid.Row="4" Grid.Column="1">
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="0" BlurRadius="10" Color="#00000000" />
+            </TextBlock.Effect>
+        </TextBlock>
+
+
+        <Label Name="skeletonLabel" Background="Black" Grid.Row="4" Grid.Column="5"/>
+        <Image Name="Skeleton" Grid.Row="4" Grid.Column="5" />
+        <MediaElement Name="skeletonplayer" Grid.Row="4" Grid.Column="5" LoadedBehavior="Manual" ScrubbingEnabled="True"/>
+        <TextBlock Name="skeletonTextLabel"  FontSize="16" Grid.Row="4" Grid.Column="5">
+            <Run Foreground="White">> Skeleton Data</Run>
+        </TextBlock>
+
+
+        <Grid Background="White" Name="buttonsGrid" Grid.Column="1" Grid.Row="7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="live_button" Grid.Column="0" Grid.Row="0" Margin="5, 5, 5, 5" Click="live_button_Click">Go Live</Button>
+            <Button Name="record_button" Grid.Column="1" Grid.Row="0" Margin="5, 5, 5, 5" Click="record_button_Click">Record</Button>
+            <Button Name="caseMaker_button" Grid.Column="1" Grid.Row="0" Margin="5, 5, 5, 5" Click="caseMaker_button_Click">Case Maker</Button>
+            <ComboBox Name="caseSelector" Grid.Column="0" Grid.Row="1" Margin="5, 5, 5, 5" SelectionChanged="caseSelector_SelectionChanged"/>
+            <Button Name="play_pause_button" Grid.Column="1" Grid.Row="1" Margin="5, 5, 5, 5" Click="play_pause_button_Click" >Play</Button>
+            <Button Name="newTagButton" Grid.Column="0" Grid.Row="2" Margin="5, 5, 5, 5" Click="newTagButton_Click" >New Tag</Button>
+            <Button Name="tagLockButton" Grid.Column="1" Grid.Row="2" Margin="5, 5, 5, 5" Click="tagLockButton_Click">Unlock Tag</Button>
+        </Grid>
+        <StatusBar Grid.ColumnSpan="10" Grid.Column="0" Grid.Row="9" Height="30" Name="statusBar">
+            <StatusBarItem>
+                <TextBlock Name="status_text" />
+            </StatusBarItem>
+        </StatusBar>
+        <Grid Name="liveConsoleGrid" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="3" Background="RoyalBlue">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="160"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Foreground="White">Live Observation :</Label>
+            <Label Grid.Row="1" Grid.Column="0" Foreground="White">Recorded RGB Frames :</Label>
+            <Label Grid.Row="2" Grid.Column="0" Foreground="White">Recorded Skeleton Frames :</Label>
+            <Label Grid.Row="0" Grid.Column="1" Name="clabel1"  Foreground="White">false</Label>
+            <Label Grid.Row="1" Grid.Column="1" Name="clabel2" Foreground="White">!</Label>
+            <Label Grid.Row="2" Grid.Column="1" Name="clabel3" Foreground="White">!</Label>
+        </Grid>
+        <Grid Name="offlineConsoleGrid" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="3">
+            <DataGrid AutoGenerateColumns="False" Margin="0, 5, 0, 0" Name="tagsDataGrid" IsHitTestVisible="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Note" IsReadOnly="True" Width="*" Binding="{Binding Path=text}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <Slider Grid.Column="3" Background="White" Margin="0, 10, 0, 0" Grid.Row="5" Name="slider" Grid.ColumnSpan="1" MouseEnter="slider_MouseEnter" MouseLeave="slider_MouseLeave"/>
+        <Grid Grid.Row="6" Grid.Column="3" Name="tagsPlace">
+        </Grid>
+        <Image Grid.Column="1" Margin="183,26,10,50" Grid.Row="2" Source="CTADlogo.png" Stretch="Fill"/>
+    </Grid>
+    <Window.Resources>
+        <Style TargetType="DataGridRow">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding visible}" Value="true">
+                    <Setter Property="Visibility" Value="Visible" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding visible}" Value="false">
+                    <Setter Property="Visibility" Value="Collapsed" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding color}" Value="0">
+                    <Setter Property="Background" Value="Tomato" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding color}" Value="1">
+                    <Setter Property="Background" Value="SkyBlue" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding color}" Value="2">
+                    <Setter Property="Background" Value="LimeGreen" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding color}" Value="3">
+                    <Setter Property="Background" Value="Gold" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding color}" Value="4">
+                    <Setter Property="Background" Value="Orange" />
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+</Window>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_class1" kind="class" language="C#" prot="public">
+    <compoundname>Class1</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_class1_1a634a95dbd72abcd30bc42517ced333c1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Class1.Class1</definition>
+        <argsstring>()</argsstring>
+        <name>Class1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Meysam/Desktop/utautismdiagnosis/SkeletonMovieCreatorWorker.cs" line="5" column="1" bodyfile="C:/Users/Meysam/Desktop/utautismdiagnosis/SkeletonMovieCreatorWorker.cs" bodystart="5" bodyend="7"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Meysam/Desktop/utautismdiagnosis/SkeletonMovieCreatorWorker.cs" line="4" column="1" bodyfile="C:/Users/Meysam/Desktop/utautismdiagnosis/SkeletonMovieCreatorWorker.cs" bodystart="3" bodyend="8"/>
+    <listofallmembers>
+      <member refid="class_class1_1a634a95dbd72abcd30bc42517ced333c1" prot="public" virt="non-virtual"><scope>Class1</scope><name>Class1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

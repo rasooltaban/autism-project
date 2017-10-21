@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WpfApplication4</name>
+    </assembly>
+    <members>
+        <member name="T:UTKinectSkeletonMovementDetector.SkeletonMovieCreatorWorker">
+            <summary>   
+            skeleton movie creation worker class
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonMovieCreatorWorker.WorkerMethod">
+            <summary>   
+            main worker method
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.SkeletonPointConverter">
+            <summary>   
+            conversion logic for converting 3d skeleton points to 2d
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPointConverter.convert(Microsoft.Kinect.SkeletonPoint)">
+            <summary>   
+            simply converts a 3d point to display on 640 * 480 : 2d frame
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPointConverter.convertAndScale(Microsoft.Kinect.SkeletonPoint,System.Drawing.Point,System.Double)">
+            <summary>   
+            without this skeleton and color frames does not coinside completely
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.progressDialog">
+            <summary>
+            Interaction logic for progressDialog.xaml
+            </summary>
+            <summary>
+            progressDialog
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.progressDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.MySkeletonFrame">
+            <summary>   
+            skeleton frame holder
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.ColorMovieCreatorWorker">
+            <summary>   
+            color movie creation worker class
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.ColorMovieCreatorWorker.#ctor(System.Collections.Generic.List{UTKinectSkeletonMovementDetector.MyColorFrame},System.Collections.Generic.List{UTKinectSkeletonMovementDetector.MySkeletonFrame},System.String)">
+            <summary>   
+            cunstructor
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.ColorMovieCreatorWorker.WorkerMethod">
+            <summary>   
+            main method of the worker
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:UTKinectSkeletonMovementDetector.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:UTKinectSkeletonMovementDetector.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.MainWindow">
+            <summary>   
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.RenderWidth">
+            <summary>
+            Width of our output drawing
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.RenderHeight">
+            <summary>
+            Height of our output drawing
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.JointThickness">
+            <summary>
+            Thickness of drawn joint lines
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.BodyCenterThickness">
+            <summary>
+            Thickness of body center ellipse
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.ClipBoundsThickness">
+            <summary>
+            Thickness of clip edge rectangles
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.#ctor">
+            <summary>
+            Initializes a new instance of the MainWindow class.
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.colorBitmap">
+            <summary>
+            current color frame as bitmap
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.is_recording">
+            <summary>
+            recording status of the moment
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.recorded_skeleton_frames">
+            <summary>
+            collects all recorded skeleton frames
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.recorded_color_frames">
+            <summary>
+            collects all recorded color frames
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.selectedPath">
+            <summary>
+            Path selected through path selection dialog
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.colorPixels">
+            <summary>
+            Intermediate storage for the color data received from the camera
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.progressWindow">
+            <summary>
+            Progress dialog which pops up when post processing recorded data
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.is_observing_live">
+            <summary>
+            status of kinect sensors activity
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.centerPointBrush">
+            <summary>
+            Brush used to draw skeleton center point
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.trackedJointBrush">
+            <summary>
+            Brush used for drawing joints that are currently tracked
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.inferredJointBrush">
+            <summary>
+            Brush used for drawing joints that are currently inferred
+            </summary>        
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.trackedBonePen">
+            <summary>
+            Pen used for drawing bones that are currently tracked
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.inferredBonePen">
+            <summary>
+            Pen used for drawing bones that are currently inferred
+            </summary>        
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.sensor">
+            <summary>
+            Active Kinect sensor
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.drawingGroup">
+            <summary>
+            Drawing group for skeleton rendering output
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.overlaydrawingGroup">
+            <summary>
+            Drawing group for overlay frames rendering output
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.imageSource">
+            <summary>
+            Drawing image that we will display
+            </summary>
+        </member>
+        <member name="F:UTKinectSkeletonMovementDetector.MainWindow.overlayimageSource">
+            <summary>
+            Drawing overlay image that we will display
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.RenderClippedEdges(Microsoft.Kinect.Skeleton,System.Windows.Media.DrawingContext)">
+            <summary>
+            Draws indicators to show which edges are clipping skeleton data
+            </summary>
+            <param name="skeleton">skeleton to draw clipping information for</param>
+            <param name="drawingContext">drawing context to draw to</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.WindowLoaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Execute startup tasks
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.WindowClosing(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Execute shutdown tasks
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.SensorSkeletonFrameReady(System.Object,Microsoft.Kinect.SkeletonFrameReadyEventArgs)">
+            <summary>
+            runs when new skeleton frame is received
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.DrawBonesAndJoints(Microsoft.Kinect.Skeleton,System.Windows.Media.DrawingContext)">
+            <summary>
+            Draws a skeleton's bones and joints
+            </summary>
+            <param name="skeleton">skeleton to draw</param>
+            <param name="drawingContext">drawing context to draw to</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.SkeletonPointToScreen(Microsoft.Kinect.SkeletonPoint)">
+            <summary>
+            Maps a SkeletonPoint to lie within our render space and converts to Point
+            </summary>
+            <param name="skelpoint">point to map</param>
+            <returns>mapped point</returns>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.DrawBone(Microsoft.Kinect.Skeleton,System.Windows.Media.DrawingContext,Microsoft.Kinect.JointType,Microsoft.Kinect.JointType)">
+            <summary>
+            Draws a bone line between two joints
+            </summary>
+            <param name="skeleton">skeleton to draw bones from</param>
+            <param name="drawingContext">drawing context to draw to</param>
+            <param name="jointType0">joint to start drawing from</param>
+            <param name="jointType1">joint to end drawing at</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.SensorColorFrameReady(System.Object,Microsoft.Kinect.ColorImageFrameReadyEventArgs)">
+            <summary>
+            runs when new color frame is received
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.live_button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            runs when live button is clicked
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.toggle_live">
+            <summary>
+            if sensors are already off this makes them go on and viseversa
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.turn_on_live_observation">
+            <summary>
+            turns on kinect sensors
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.turn_off_live_observation">
+            <summary>
+            turns off kinect sensors
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.start_recording">
+            <summary>
+            with the execution of this function every frame received from now on is recorded
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.record_button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            runs when new record/stop button is clicked
+            </summary>
+            <param name="sender">object sending the event</param>
+            <param name="e">event arguments</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.startOverlayMovieCreation">
+            <summary>
+            shows a waiting dialog and start creation of overlay movie in another thread
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.OnOverlayWorkerMethodComplete(System.String)">
+            <summary>
+            runs on overlay movie creation complete, continues with color movie creation process
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.startColorMovieCreation">
+            <summary>
+            shows a waiting dialog and start creation of color movie in another thread
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.OnColorWorkerMethodComplete(System.String)">
+            <summary>
+            runs on color movie creation complete, continues with skeleton movie creation process
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.startSkeletonMovieCreation">
+            <summary>
+            shows a waiting dialog and start creation of skeleton movie in another thread
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.OnSkeletonWorkerMethodComplete(System.String)">
+            <summary>
+            runs on skeleton creation complete, continues with log creation process
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.startMovementLogCreation">
+            <summary>
+            shows a waiting dialog and start creation of movement log file in another thread
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.OnLogWorkerMethodComplete(System.String)">
+            <summary>
+            runs on movement log creation complete
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.play_button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            brings a folder browser dialog and plays all recorded data in there
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.OverlayMovieCreatorWorker">
+            <summary>   
+            overlay movie creation worker class
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.OverlayMovieCreatorWorker.WorkerMethod">
+            <summary>   
+            main worker method
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPainter.getHeadCoverSize(System.Double)">
+            <summary>   
+            returns the the size of head cover square
+            </summary>
+            <param name="bg">frame to draw skeleton on</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPainter.paint(System.Drawing.Image,Microsoft.Kinect.Skeleton[],System.Drawing.Point,System.Double,System.Boolean,System.Boolean)">
+            <summary>   
+            simply converts a 3d point to display on 640 * 480 : 2d frame
+            </summary>
+            <param name="bg">frame to draw skeleton on</param>
+            <param name="skeletons">all skeletons of a single frmae</param>
+            <param name="initsize">skeleton frame initial size</param>
+            <param name="proportion">ratio of skeleton fram scale</param>
+            <param name="paintskeleton">determines whether or not all skeleton bones should be painted</param>       
+            <param name="hidedead">whether or not the head should be hided with a black square or not</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPainter.paintonblank(Microsoft.Kinect.Skeleton[])">
+            <summary>   
+            draw on a blank black frame
+            </summary>
+            <param name="skeletons">skeletons to draw</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPainter.paintSkeletonAndHideHead(System.Drawing.Image,Microsoft.Kinect.Skeleton[])">
+            <summary>   
+            draw on an img
+            </summary>
+            <param name="img">background of the drawing</param>
+            <param name="skeletons">skeletons to be drawn on the background</param>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.SkeletonPainter.hideHead(System.Drawing.Image,Microsoft.Kinect.Skeleton[])">
+            <summary>   
+            draw on a background and also hide head
+            </summary>
+            <param name="img">background to draw skeleton on</param>
+            <param name="skeletons">skeletons to be drawn on the background</param>
+        </member>
+        <member name="T:UTKinectSkeletonMovementDetector.MovementLogCtreationWorker">
+            <summary>   
+            movement log creation worker class
+            </summary>
+        </member>
+        <member name="M:UTKinectSkeletonMovementDetector.MovementLogCtreationWorker.WorkerMethod">
+            <summary>   
+            main worker method
+            </summary>
+        </member>
+    </members>
+</doc>

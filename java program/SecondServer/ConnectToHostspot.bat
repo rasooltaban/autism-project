@@ -1,0 +1,1 @@
+netsh wlan connect ssid=Autism key = 00000000
